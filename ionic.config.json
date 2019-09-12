@@ -1,0 +1,7 @@
+{
+  "name": "ibeacon_test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
